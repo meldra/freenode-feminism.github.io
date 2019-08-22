@@ -106,7 +106,7 @@ title: Links
 
 # Race, Religion and Spirituality
 
-* [I am not Haraam (Muslim LGBTQIA+)](https://iamnotharaam.tumblr.com/)
+* [I am not Haraam **(Muslim)**](https://iamnotharaam.tumblr.com/)
 * [Jewish Women, Amplified](https://jwa.org/blog)
 * [Slacktivist](https://www.patheos.com/blogs/slacktivist/)
 * [This... is White Privilege](https://thisiswhiteprivilege.tumblr.com/)
