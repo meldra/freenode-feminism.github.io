@@ -86,7 +86,7 @@ title: Links
 
 # Disability, Mental Health, and Body Acceptance.
 
-* [Dances With Fat by Ragen Chastain](https://danceswithfat.org/) - Size Acceptance and Health at Every Size\
+* [Dances With Fat by Ragen Chastain](https://danceswithfat.org/) - Size Acceptance and Health at Every Size
 * [The Spoon Theory](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/)
 * [This Is Thin Privilege](https://thisisthinprivilege.tumblr.com/)
 
