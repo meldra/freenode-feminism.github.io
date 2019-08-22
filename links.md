@@ -55,7 +55,7 @@ title: Links
 
 ## Groups
 
-* [Anarcafeminist Hackerhive](https://www.noisebridge.net/wiki/Anarchafeminist_Hackerhive/)
+* [Anarchafeminist Hackerhive](https://www.noisebridge.net/wiki/Anarchafeminist_Hackerhive/)
 * [Fedora Diversity Team](https://docs.fedoraproject.org/en-US/diversity-inclusion/) - Diversity team in the Fedora project (a linux distribution)
 * [Arch Linux Women](https://archwomen.org/) - Helping more women become involved in the Arch Linux community and FOSS
 
