@@ -32,6 +32,7 @@ title: Links
 * [Women, Race & Class **(book)**](https://archive.org/details/WomenRaceClassAngelaDavis/)
 * [Socialism, Anarchism And Feminism **(book)**](https://theanarchistlibrary.org/library/carol-ehrlich-socialism-anarchism-and-feminism)
 * [The Precarious Union of Anarchism and Feminism: A Response to ‘Re-defining Radical Feminism’](https://theanarchistlibrary.org/library/red-sonja-nefac-boston-the-precarious-union-of-anarchism-and-feminism-a-response-to-re-defining)
+* [5 Statistics That Explain the Link Between Domestic Violence and Mass Shootings](https://fortune.com/2017/11/07/domestic-violence-shootings-statistics/)
 
 ## In Gaming & Entertainment
 
@@ -43,7 +44,6 @@ title: Links
 * [The only guide to Gamergate you will ever need to read](https://www.washingtonpost.com/news/the-intersect/wp/2014/10/14/the-only-guide-to-gamergate-you-will-ever-need-to-read/?noredirect=on)
 * [GamerGate to Trump: How video game culture blew everything up](https://www.cnet.com/news/gamergate-donald-trump-american-nazis-how-video-game-culture-blew-everything-up/)
 * [Toxic Twitter - Women's experiences of violence and abuse on twitter](https://www.amnesty.org/en/latest/research/2018/03/online-violence-against-women-chapter-3/)
-* [5 Statistics That Explain the Link Between Domestic Violence and Mass Shootings](https://fortune.com/2017/11/07/domestic-violence-shootings-statistics/)
 
 ## Archived
 
